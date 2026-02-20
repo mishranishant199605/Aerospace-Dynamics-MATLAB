@@ -1,4 +1,4 @@
-# 3D UAV Dynamics & Vicon Motion Tracking
+# MATLAB animations using System Dynamics and VICON motion tracker
 
 [![Watch the Simulation](https://img.youtube.com/vi/y8QlxYUsWBo/0.jpg)](https://youtu.be/y8QlxYUsWBo)
 
