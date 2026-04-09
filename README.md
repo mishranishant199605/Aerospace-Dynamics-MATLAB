@@ -4,3 +4,7 @@
 
 
 [![Watch the Simulation](https://img.youtube.com/vi/9jWnuPoZtVo/0.jpg)](https://youtu.be/9jWnuPoZtVo)
+
+
+[<img src="https://img.youtube.com/vi/P_19m23sSow/maxresdefault.jpg" width="70%" alt="Aerospace Dynamics MATLAB Animation">](https://youtu.be/P_19m23sSow)
+
