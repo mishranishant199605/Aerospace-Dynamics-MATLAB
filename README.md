@@ -21,7 +21,9 @@ Multi-body dynamics • Lagrangian mechanics • Nonlinear equations of motion �
 ## Repository Structure
 - `Simulation - 01/` → Aircraft + Suspended Load dynamics
 - `Simulation - 02/` → Gravity Assist Maneuver
+- 🎥 **[Watch Gravity Assist Simulation on YouTube](https://youtu.be/9jWnuPoZtVo)**
 - `Research-Highlights.md` → Summary of research work
+- 🎥 **[Watch UAV Flight Simulation Animation on YouTube](https://youtu.be/y8QlxYUsWBo)**
 
 ## How to Run
 1. Open MATLAB
