@@ -24,6 +24,10 @@ Multi-body dynamics • Lagrangian mechanics • Nonlinear equations of motion �
 - 🎥 **[Watch Gravity Assist Simulation on YouTube](https://youtu.be/9jWnuPoZtVo)**
 - `Research-Highlights.md` → Summary of research work
 - 🎥 **[Watch UAV Flight Simulation Animation on YouTube](https://youtu.be/y8QlxYUsWBo)**
+- 3. OpenFOAM Fluid Dynamics Simulation (pitzDaily Backward-Facing Step)
+   * **[Watch OpenFOAM CFD Simulation on YouTube](https://youtu.be/P_19m23sSow)**
+   * Performed Computational Fluid Dynamics (CFD) analysis of turbulent flow over a backward-facing step.
+   * Visualized velocity magnitude contours ($U$) and vortex shedding behavior using Paraview.
 
 ## How to Run
 1. Open MATLAB
